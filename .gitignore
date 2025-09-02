@@ -13,22 +13,20 @@
 !LICENSE
 !README.md
 
-
-!scripts/
-!scripts/**/
-!shared/
-!shared/**/
+!models/
+!models/**/
 !src/
 !src/**/
-!tests/
-!tests/**/
 
-!*.lock
 !*.md
+!*.svg
+!*.png
+!*.nix
+!*.lock
 !*.toml
 !*.yaml
 !*.yml
 !*.ini
-!*.sh
 !*.py
-!*.cu
+!*.xml
+!*.obj
